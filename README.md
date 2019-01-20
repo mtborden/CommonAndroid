@@ -1,2 +1,2 @@
-# DatabaseAdapter
-Simple Android database adapter class
+# CommonAndroid
+Skeleton classes commonly used in Android
